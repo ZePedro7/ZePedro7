@@ -6,7 +6,7 @@
 
 ---
 
-## **👀 Conhecimentos:**
+## **Conhecimentos:**
 - **Preparação civil-arquitetura**
 - **Medições**
 - **QHSE-Qualidade**
@@ -20,11 +20,11 @@
 
 ---
 
-### 🌎 Veja os projetos em que trabalhei em:
+### 👀 Veja os projetos em que trabalhei em:
 <a href="https://zepedro7.github.io/" target="_blank">
   <img align="left" width="150" height="150" src="image_gif.gif">
 </a>
-- Em <a href="https://zepedro7.github.io/" target="_blank">Meu Portfólio</a>
+- <a href="https://zepedro7.github.io/" target="_blank">Meu Portfólio</a>
 
 ---
 
