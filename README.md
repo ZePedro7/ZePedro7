@@ -24,7 +24,7 @@
 <a href="https://zepedro-portfolio-6acbe0f9989c.herokuapp.com/projects" target="_blank">
   <img align="left" width="150" height="150" src="image_gif.gif">
 </a>
-- <a href="https://zepedro7.github.io/" target="_blank">Meu Portfólio</a>
+- <a href="https://zepedro-portfolio-6acbe0f9989c.herokuapp.com/projects" target="_blank">Meu Portfólio</a>
 
 ---
 
