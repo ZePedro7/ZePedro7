@@ -1,18 +1,21 @@
-# 👋 Olá, sou o ZePedro
+# 👋 Hello, I'm ZePedro
 
-### 👨🏾‍🎓 Engenheiro Civil
-### 👷🏾‍♂️ Membro associado A3 da Ordem dos Engenheiros de Angola (OEA)
-### 👷🏾‍♂️ 3+ anos de experiência em Direção Adjunta de Obras
+![Profile Image](https://dh09x5tu10bt3.cloudfront.net/avatar.jpg)
+![GitHub followers](https://img.shields.io/github/followers/ZePedro7?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ZePedro7?style=social)
+
+### 👨🏾‍🎓 Civil Engineer with 3+ years of experience
+### 👷🏾‍♂️ Associate Member of the Order of Engineers of Angola (OEA)
 
 ---
 
-## **Conhecimentos:**
-- **Preparação civil-arquitetura**
-- **Medições**
-- **QHSE-Qualidade**
+## **Skills and Knowledge:**
+- **Civil-Architectural Preparation**
+- **Measurements**
+- **QHSE-Quality**
 
-## **Competências em softwares:**
-- **SAP HANA_S4P**
+## **Software Competencies:**
+- **SAP HANA S4P**
 - **SAP 2000**
 - **AutoCAD**
 - **SketchUp**
@@ -20,11 +23,10 @@
 
 ---
 
-### 👀 Veja os projetos em que trabalhei em:
+### 👀 Check out the projects I’ve worked on:
 <a href="https://zepedro-portfolio-6acbe0f9989c.herokuapp.com/projects" target="_blank">
   <img align="left" width="150" height="150" src="image_gif.gif">
 </a>
-- <a href="https://zepedro-portfolio-6acbe0f9989c.herokuapp.com/projects" target="_blank">Meu Portfólio</a>
+- [My Portfolio](https://zepedro-portfolio-6acbe0f9989c.herokuapp.com/projects)
 
 ---
-
